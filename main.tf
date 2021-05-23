@@ -8,3 +8,4 @@ resource "aws_instance" "MyFirstInstnace" {
     Name = "demoinstnce"
   }
 }
+
